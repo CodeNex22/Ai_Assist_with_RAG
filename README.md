@@ -2,6 +2,8 @@
 
 A local-first AI customer support assistant built with FastAPI, React, Ollama, Qdrant, and PostgreSQL. The application is designed to run entirely on a local machine and can later be extended with WhatsApp Business Cloud API or other messaging adapters without changing the core RAG pipeline.
 
+This is an open-source project.
+
 ## Features
 
 - Local chat interface with dark mode and responsive layout
